@@ -2,7 +2,7 @@
 #include <pspdebug.h>
 #include <pspdisplay.h>
 
-#include "../common/callback.h"
+#include "C:/Users/Aach0/Documents/GitHub/PSP-WiFi-Controller/common/callback.h"
 
 #define VERS 1 //Talk about this
 #define REVS 0
