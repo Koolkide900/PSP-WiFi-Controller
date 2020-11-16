@@ -1,5 +1,5 @@
 TARGET = my_program
-OBJS   = main.o myLibrary.o
+OBJS   = main.o ../common/callback.o
 
 INCDIR   =
 CFLAGS   = -G0 -Wall -O2
